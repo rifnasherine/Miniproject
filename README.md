@@ -249,6 +249,8 @@ if __name__ == "__main__":
     main_account_screen()
 ```
 
+## Output
+![miniproject output](https://github.com/user-attachments/assets/242d745f-2270-4bfb-a402-ca8eac5f8514)
 
 ## Results and Impact
 Output Type: Voice alert and visual display of recognized denomination.
